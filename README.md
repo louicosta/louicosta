@@ -1,4 +1,4 @@
-<h1 align="center">Hi!! I'm Louise Cost</h1>
+<h1 align="center">Hi!! I'm Louise Costa</h1>
 <h3 align="center">In career transition to programming. When I started I saw how much I was always interested in technology in a veiled way and that's what I identified with.</h3>
 
 - 🌱 I’m currently learning **programming for backend development at {Reprograma}**
